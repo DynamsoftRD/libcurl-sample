@@ -41,9 +41,14 @@ int main()
 }
     ```
 
-Reference
+References
 ---------
 * https://github.com/bagder/curl
 * http://curl.haxx.se/libcurl/c/libcurl-tutorial.html
 
+Blog
+----
+[How to Build and Use Libcurl with VS2015 on Windows][2]
+
 [1]:http://curl.haxx.se/download.html
+[2]:http://www.codepool.biz/build-use-libcurl-vs2015-windows.html
